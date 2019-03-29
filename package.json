@@ -1,0 +1,15 @@
+{
+  "name": "nodeexpressmongodb",
+  "version": "1.0.0",
+  "description": "nodeexpresscasestudy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tushar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
+}
